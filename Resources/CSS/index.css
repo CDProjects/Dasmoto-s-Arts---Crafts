@@ -10,7 +10,6 @@ h2 {
     font-size: 32px;
     font-weight: bold;
     color: white;
-    background-color: mediumspringgreen;
     width: 100%;
 }
 
@@ -28,11 +27,15 @@ h1, h2, h3, p {
     background-color: lightcoral;
 }
 
+#brush {
+    background-color: mediumspringgreen;
+}
+
 .item h2 {
     color: white;
     font-size: 32px;
 }
 
-.item h2 {
+#paint {
     background-color: skyblue;
 }
